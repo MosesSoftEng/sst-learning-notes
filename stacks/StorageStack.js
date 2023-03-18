@@ -1,7 +1,7 @@
 /*
  * Defines App Infrastructure.
  */
-// SST’s Table construct 
+// SST’s construct 
 import {Bucket, Table} from "sst/constructs";
 
 export function StorageStack({stack, app}) {
